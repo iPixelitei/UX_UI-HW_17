@@ -57,7 +57,8 @@ button {
     background-color: #e28c8c;
     width: 250px;
     padding: 10px;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-left: 43.5%;}
 body { 
     background-image: url("grid.png");
     background-color: #faf4e8;
